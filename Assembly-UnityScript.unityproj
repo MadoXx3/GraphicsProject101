@@ -9,10 +9,10 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{20B38C82-0523-645E-F68A-F109F600623D}</ProjectGuid>
+    <ProjectGuid>{EBF06CBC-740A-4B5E-E544-A1BA8B7E1263}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <AssemblyName>Assembly-UnityScript</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>Assets</BaseDirectory>
@@ -51,12 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CameraStable.cs" />
-     <Compile Include="Assets\Scripts\Countdown.cs" />
-     <Compile Include="Assets\Scripts\HalfPointTrigger.cs" />
-     <Compile Include="Assets\Scripts\LapComplete.cs" />
-     <Compile Include="Assets\Scripts\LapTimeManager.cs" />
-     <Compile Include="Assets\Scripts\LoadLapTime.cs" />
+     <Compile Include="Assets\Scripts\CarControl.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
