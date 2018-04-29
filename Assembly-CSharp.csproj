@@ -52,6 +52,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraStable.cs" />
+     <Compile Include="Assets\Scripts\HalfPointTrigger.cs" />
+     <Compile Include="Assets\Scripts\LapComplete.cs" />
+     <Compile Include="Assets\Scripts\LapTimeManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
